@@ -1,0 +1,33 @@
+# Deep Learning
+tensorflow
+
+# Numerical computing
+numpy
+scipy
+
+# Data manipulation
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning utilities
+scikit-learn
+
+# Jupyter
+jupyter
+jupyterlab
+ipykernel
+
+# Image processing
+pillow
+
+# Progress bars
+tqdm
+
+# Model visualization
+graphviz
+pydot
+
+kagglehub
